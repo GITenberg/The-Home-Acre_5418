@@ -1,0 +1,28 @@
+_repo: The-Home-Acre_5418
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roe, Edward Payson
+    alias: Roe, E. P. (Edward Payson)
+    birthdate: 1838
+    deathdate: 1888
+    gutenberg_agent_id: '858'
+    url: http://www.gutenberg.org/2009/agents/858
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Payson_Roe
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5418'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Gardening'
+- GITenberg
+tableOfContents: Tree-planting -- Fruit-trees and grass -- The garden -- The vineyard
+  and orchard -- The raspberry -- The currant -- Strawberries -- The kitchen-garden.
+title: The Home Acre
+url: http://www.gutenberg.org/ebooks/5418
